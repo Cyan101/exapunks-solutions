@@ -1,0 +1,9 @@
+LINK 801
+
+@REP 90
+COPY @{0,1} #SQR1
+@END
+
+@REP 90
+COPY @{89,-1} #SQR1
+@END
